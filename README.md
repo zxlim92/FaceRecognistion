@@ -32,4 +32,4 @@ Running Instructions:
 	- If you are a new user, choose "New Face ID" this will save your face to the system. It will ask you to input your name. Now click  "Detection", and the program, it should be able to recognize your face. 
 
 Notes and Assumptions:
-	Running training and detector files sometimes will lag the program. When the computer takes the piture, the orentation of your face should be the same as how you originally set up the id. The new face id will take around 15 seconds. The training will take 5-10 seconds. To close the face detection, press escape key. It can do up to three people, the more people the harder it is to detect more faces
+	Running training and detector files sometimes will lag the program. When the computer takes the piture, the orentation of your face should be the same as how you originally set up the id. The new face id will take around 15 seconds. The training will take 5-10 seconds. To close the face detection, press escape key.
