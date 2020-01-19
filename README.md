@@ -1,4 +1,5 @@
 # FaceRecognistion
+TO RUN THE PROGRAM PLZ OPEN THE "runMe.py"
 Name: Nursultan Aibekuly, Le Minh Dang, Darius Fang, Zi Xue Lim, Chen Zhou
 Project: D_END Face Recognition 
 HackED 2020
